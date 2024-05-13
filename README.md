@@ -3,4 +3,4 @@
 ****
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/label.png)
 ****
-This is a public dataset for OCTA stitching, and the link will be available soon.
+This is a public dataset for DSA segmentation, and the link will be available soon.
