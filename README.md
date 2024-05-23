@@ -2,4 +2,4 @@
 ****
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/label1.png)
 ****
-This is a public dataset for DSA segmentation, and the link will be available soon.
+This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/11255024).
