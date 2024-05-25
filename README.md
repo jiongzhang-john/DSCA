@@ -4,7 +4,7 @@
 ****
 This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/11255024).
 | Artery | Total | Coronal View | Sagittal View | 
-|：-----------|：----------|：-----------|：--------|
+|：-----------：|：----------：|：-----------：|：--------:|
 | Internal Carotid Artery | 126 |    0.88   | 0.92   |
 | External Carotid Artery  | 55 | 0.91      | 0.88   |
 | Vertebral Artery | 43 | 0.88      | 0.93   |
