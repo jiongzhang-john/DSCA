@@ -1,11 +1,14 @@
 ## DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation
 ****
 <div style="text-align: justify;">The DSCA dataset consists of 58 patients with 224 DSA sequences, including 1792 images from the left and right hemispheres. Among them are 28 male and 30 female patients, with ages ranging from 9 to 81 years and an average age of 49. Notably, the DSA sequences include three different arteries: the internal carotid artery(ICA), external carotid artery (ECA), and vertebral artery (VA). Specifically, there are 126 sequences for ICA, 55 for ECA, and 43 for VA. These sequences were captured by multiple imaging devices including AXION-Artis-160145 and AXION-Artis-160480 (Siemens, Germany), Azurion-559, Azurion-703844, AlluraXper-722012-2542 and AlluraXper-722038-129 (Philips, Netherlands), and Bransist Safire VC17 (Shimadzu, Japan), with sampling rates ranging from 4 to 7 frames per second. Moreover, these sequences exhibit different resolutions (from 512 × 472 to 1432 × 1432). Each DSA sequence, captured in coronal or sagittal views, was stored in a DICOM file, with 108 DSA sequences in the coronal view and 116 in the sagittal view. All sequences retained arterial phase frames while discarding non-contrast, capillary phase, and venous phase frames [29], guided by the neurosurgeon’s expertise.</div>
+
 ****
+
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/label.png)
 ****
+
 The table below describes the specific details of the DSCA.
-<br>
+
 | Artery | Total | Coronal View | Sagittal View | Gender | Age | Diseases | Devices | Sample Rate | Resolution |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Internal Carotid Artery | 126 | 62 | 64 | M: 72 <br> F: 54| 52.6&plusmn;12.5 | Stroke, Moyamoya, Aneurysm | Siemens-AXIONM Artis, Philips-Azurion, Philips-AlluraXper, Shimadzu-Bransist Safire | 4, 6, 7 | 512\*472, 512\*512, 742\*960, 844\*844, 952\*952, 1024\*1024, 1432\*1432 | 
@@ -13,6 +16,7 @@ The table below describes the specific details of the DSCA.
 | Vertebral Artery        | 43  | 17 | 26 | M: 18 <br> F: 25| 47.9&plusmn;10.3 | Stroke, Moyamoya, Aneurysm | Siemens-AXIONM Artis, Philips-Azurion, Philips-AlluraXper, Shimadzu-Bransist Safire | 6, 7    | 512\*472, 512\*512, 742\*960, 952\*952, 1024\*1024, 1432\*1432 | 
 
 ****
+
 This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/11255024). 
 
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/link.png)
