@@ -7,7 +7,7 @@ This is a public dataset for DSA segmentation; the link is [here](https://zenodo
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Internal Carotid Artery | 126 | 62 | 64   | M: / F:| 50&plusmn;5    | Stroke, Moyamoya, Aneurysm      | AXION, Azurion, AlluraXper, Bransist Safire       | 4-7      | 512\*472-1432\*1432        | 
 | External Carotid Artery | 55  | 26 | 29   | M: / F:| 50&plusmn;5    | Stroke, Moyamoya, Aneurysm      | AXION, Azurion, AlluraXper, Bransist Safire       | 4-7      | 512\*472-1432\*1432        | 
-| Vertebral Artery        | 43  | 17 | 26   | M: / F:| 50&plusmn;5    | Stroke, Moyamoya, Aneurysm      | AXION, Azurion, AlluraXper, Bransist Safire       | 4-7      | 512\*472-1432\*1432        | 
+| Vertebral Artery        | 43  | 17 | 26   | M: 18 / F: 25| 47.9&plusmn;10.3    | Stroke, Moyamoya, Aneurysm      | Siemens-AXIONM Artis, Philips-Azurion, Philips-AlluraXper, Shimadzu-Bransist Safire       | 6, 7      | 512\*472, 512\*512, 742\*960, 952\*952, 1024\*1024, 1232\*1232,        | 
 
 ****
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/link_.png)
