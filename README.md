@@ -11,7 +11,7 @@ The table below describes the specific details of the DSCA.
 | Vertebral Artery        | 43  | 17 | 26 | M: 18 <br> F: 25| 47.9&plusmn;10.3 | Stroke, Moyamoya, Aneurysm | Siemens-AXIONM Artis, Philips-Azurion, Philips-AlluraXper, Shimadzu-Bransist Safire | 6, 7    | 512\*472, 512\*512, 742\*960, 952\*952, 1024\*1024, 1432\*1432 | 
 
 ****
-This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/11255024).
-<br>
+This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/11255024). 
+
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/link_.png)
 ****
