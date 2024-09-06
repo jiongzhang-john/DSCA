@@ -10,7 +10,7 @@
 
 The table below describes the specific details of the DSCA.
 
-| Artery | Total | Coronal View | Sagittal View | Gender | Age | Diseases | Devices | Sample Rate | Resolution |
+| Artery | Total | Antero-posterior View | Lateral View | Gender | Age | Diseases | Devices | Sample Rate | Resolution |
 |:--------:|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | Internal Carotid Artery | 126 | 62 | 64 | M: 72 <br> F: 54| 52.6&plusmn;12.5 | Stenosis, Moyamoya, Aneurysm | Siemens-AXIONM Artis, Philips-Azurion, Philips-AlluraXper, Shimadzu-Bransist Safire | 4, 6, 7 | 512\*472, 512\*512, 742\*960, 844\*844, 952\*952, 1024\*1024, 1432\*1432 | 
 | External Carotid Artery | 55  | 26 | 29 | M: 23 <br> F: 32| 42.9&plusmn;10.7 | Stenosis, Moyamoya           | Siemens-AXIONM Artis, Philips-Azurion, Shimadzu-Bransist Safire                     | 6, 7    | 512\*512, 742\*960, 952\*952, 1024\*1024 | 
