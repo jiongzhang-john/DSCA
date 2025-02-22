@@ -7,7 +7,9 @@
 All sequences retain arterial phase frames while excluding non-contrast, capillary, and venous phases, following expert neurosurgical guidance. Pixel-wise vessel annotations were performed by skilled clinicians, distinguishing bifurcated vessels (BV) and main artery trunk (MAT)—critical for clinical decision-making in cerebrovascular disease (CVD) treatment.
 
 We hope DSCA contributes to advancing AI-driven vascular analysis and cerebrovascular research.
-</div>
+
+📖 Reference:
+J. Zhang; Q. Xie; L. Mou; D. Zhang; D. Chen; C. Shan; Y. Zhao; R. Su; M. Guo. [LINK](https://ieeexplore.ieee.org/abstract/document/10884618) DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation. IEEE Transactions on Medical Imaging, 2025, DOI: 10.1109/TMI.2025.3540886.</div>
 
 ****
 
