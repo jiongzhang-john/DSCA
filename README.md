@@ -8,8 +8,11 @@ All sequences retain arterial phase frames while excluding non-contrast, capilla
 
 We hope DSCA contributes to advancing AI-driven vascular analysis and cerebrovascular research.
 
-📖 Reference:
+📖 **Reference:**
 J. Zhang; Q. Xie; L. Mou; D. Zhang; D. Chen; C. Shan; Y. Zhao; R. Su; M. Guo. [LINK](https://ieeexplore.ieee.org/abstract/document/10884618) DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation. IEEE Transactions on Medical Imaging, 2025, DOI: 10.1109/TMI.2025.3540886.</div>
+
+📢**Download**
+The dataset link is [here](https://zenodo.org/records/11255024). 
 
 ****
 
@@ -26,7 +29,6 @@ The table below describes the specific details of the DSCA.
 
 ****
 
-This is a public dataset for DSA segmentation; the link is [here](https://zenodo.org/records/11255024). 
 
 ![image](https://github.com/jiongzhang-john/DSCA/blob/main/images/link.png)
 ****
