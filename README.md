@@ -1,6 +1,6 @@
 # DSCA
 ****
-📢📢📢 **Introducing DSCA: A Public Digital Subtraction Angiography (DSA) Dataset for Cerebral Artery Segmentation**🧠
+📢📢📢 **DSCA: A Public Digital Subtraction Angiography (DSA) Dataset for Cerebral Artery Segmentation**🧠🧠🧠
 
 <div align="justify" style="text-indent: 40px;">The DSCA dataset consists of 58 patients with 224 DSA sequences, including 1792 images from the left and right hemispheres. Among them are 28 male and 30 female patients, with ages ranging from 9 to 81 years and an average age of 49. Notably, the DSA sequences include three different arteries: the internal carotid artery(ICA), external carotid artery (ECA), and vertebral artery (VA). Specifically, there are 126 sequences for ICA, 55 for ECA, and 43 for VA. These sequences were captured by multiple imaging devices including AXION-Artis-160145 and AXION-Artis-160480 (Siemens, Germany), Azurion-559, Azurion-703844, AlluraXper-722012-2542 and AlluraXper-722038-129 (Philips, Netherlands), and Bransist Safire VC17 (Shimadzu, Japan), with sampling rates ranging from 4 to 7 frames per second. Moreover, these sequences exhibit different resolutions (from 512 × 472 to 1432 × 1432). Each DSA sequence, captured in coronal or sagittal views, was stored in a DICOM file, with 108 DSA sequences in the coronal view and 116 in the sagittal view. All sequences retained arterial phase frames while discarding non-contrast, capillary phase, and venous phase frames, guided by the neurosurgeon’s expertise.
 
