@@ -11,8 +11,7 @@ We hope DSCA contributes to advancing AI-driven vascular analysis and cerebrovas
 📖 **Reference:**
 J. Zhang; Q. Xie; L. Mou; D. Zhang; D. Chen; C. Shan; Y. Zhao; R. Su; M. Guo. [LINK](https://ieeexplore.ieee.org/abstract/document/10884618) DSCA: A Digital Subtraction Angiography Sequence Dataset and Spatio-Temporal Model for Cerebral Artery Segmentation. IEEE Transactions on Medical Imaging, 2025, DOI: 10.1109/TMI.2025.3540886.</div>
 
-📢**Download**
-The dataset link is [here](https://zenodo.org/records/11255024). 
+📢**Download** the DSCA dataset [here](https://zenodo.org/records/11255024). 
 
 ****
 
